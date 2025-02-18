@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imusic version="1.0" tempo="120" timeSign="4/4" audioPath="audio" suffix="mp3" loopLength="4" sync="true" changeOnNext="bar">
+    <arrangement class="Start">
+        <motif tags="Kick" class="Kick" quantize="1/4" src="client/public/audio/Kick.wav"></motif>
+    </arrangement>
+</imusic>
