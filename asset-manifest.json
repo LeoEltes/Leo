@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/Leo/static/css/main.bef5d53f.css",
-    "main.js": "/Leo/static/js/main.35d0a80b.js",
-    "static/js/454.b5fbd7de.chunk.js": "/Leo/static/js/454.b5fbd7de.chunk.js",
+    "main.css": "/Leo/static/css/main.406094dd.css",
+    "main.js": "/Leo/static/js/main.5ea97b66.js",
     "static/js/488.ea1387b7.chunk.js": "/Leo/static/js/488.ea1387b7.chunk.js",
     "index.html": "/Leo/index.html",
-    "main.bef5d53f.css.map": "/Leo/static/css/main.bef5d53f.css.map",
-    "main.35d0a80b.js.map": "/Leo/static/js/main.35d0a80b.js.map",
-    "454.b5fbd7de.chunk.js.map": "/Leo/static/js/454.b5fbd7de.chunk.js.map",
+    "main.406094dd.css.map": "/Leo/static/css/main.406094dd.css.map",
+    "main.5ea97b66.js.map": "/Leo/static/js/main.5ea97b66.js.map",
     "488.ea1387b7.chunk.js.map": "/Leo/static/js/488.ea1387b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bef5d53f.css",
-    "static/js/main.35d0a80b.js"
+    "static/css/main.406094dd.css",
+    "static/js/main.5ea97b66.js"
   ]
 }
